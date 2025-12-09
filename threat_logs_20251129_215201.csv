@@ -1,0 +1,6 @@
+Timestamp,Threat Type,Severity,Description
+2025-11-29T21:49:20.857673,SQL Injection,High,Pattern matched: (?i)(?:')|(?:--)|(/\*(?:.|[\n\r])*?\*/)|(select|insert|delete|update|drop|union|exec)
+2025-11-25T10:30:53.175197,SQL Injection,High,Pattern matched: (?i)(?:')|(?:--)|(/\*(?:.|[\n\r])*?\*/)|(select|insert|delete|update|drop|union|exec)
+2025-10-21T19:45:00,SQL Injection,High,Detected suspicious query pattern
+2025-10-21T19:45:00,SQL Injection,High,Detected suspicious query pattern
+2025-10-21T19:45:00,SQL Injection,High,Detected suspicious query pattern
